@@ -1,0 +1,27 @@
+.sideshow img {
+  width: 15%;
+  border-radius: 30%;
+  height: 40px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+.sideshow {
+  display: flex;
+  padding: 5px;
+  background-color: rgb(206, 194, 194);
+  margin-bottom: 5px;
+}
+.sideshow h4 {
+  border-left: 1px solid black;
+  margin-right: 5px;
+}
+
+.sideshow button {
+  padding: 5px;
+  text-align: center;
+  background-color: red;
+}
+.sideshow i {
+  font-size: 35px;
+  background-color: red;
+}

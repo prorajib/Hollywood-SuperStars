@@ -1,0 +1,23 @@
+.rating-color {
+  color: rgb(226, 173, 37);
+}
+
+.actor {
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: rgb(22, 21, 21);
+  box-shadow: 5px 5px 5px gray;
+}
+.actor:hover {
+  background-color: rgb(184, 176, 176);
+}
+
+.btn-list {
+  background-color: rgb(245, 185, 32);
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+.btn-list:hover {
+  background-color: rgb(165, 123, 16);
+  color: white;
+}

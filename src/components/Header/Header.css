@@ -1,0 +1,9 @@
+.search-box {
+  background-color: rgba(0, 0, 0, 0.85);
+  line-height: 80px;
+}
+.search-box input {
+  width: 70%;
+  padding: 8px;
+  border-radius: 10px;
+}

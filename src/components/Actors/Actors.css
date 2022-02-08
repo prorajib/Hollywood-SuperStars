@@ -1,0 +1,28 @@
+.actors-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 5px;
+  margin-left: 50px;
+  margin-top: 30px;
+  border-right: 1px solid gray;
+}
+
+.main-section {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.actor {
+  background-color: rgb(221, 221, 221);
+  margin-right: 5px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.actor img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
